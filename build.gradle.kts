@@ -22,6 +22,7 @@ dependencies {
 	implementation("com.fasterxml.jackson.module:jackson-module-kotlin")
 	implementation("org.jetbrains.kotlin:kotlin-reflect")
 	implementation("org.jetbrains.kotlin:kotlin-stdlib-jdk8")
+	implementation("pl.foltak.polish-identification-numbers-utils:polish-identification-numbers-utils:1.0.0")
 	testImplementation("org.springframework.boot:spring-boot-starter-test")
 	testImplementation("org.spockframework:spock-core:2.2-M1-groovy-3.0")
 	testImplementation("org.spockframework:spock-spring:2.2-M1-groovy-3.0")
